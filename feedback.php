@@ -22,4 +22,4 @@ session_start();
 		echo "Out of session"; 		
 	}
 
-?>
+?> #test
